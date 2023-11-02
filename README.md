@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadigotfound
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning blender
+- 🌱 I’m currently learning abount animations on blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
