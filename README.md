@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning abount animations on blender
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email:aadigotfound@gmail.com
 
 <!---
 Aadigotfound/Aadigotfound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
